@@ -15,7 +15,7 @@ class LaunchScreenViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        getStartedButton.layer.cornerRadius = 10
+        getStartedButton.layer.cornerRadius = 12
         getStartedButton.clipsToBounds = true
     }
 
